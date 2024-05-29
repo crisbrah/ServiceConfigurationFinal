@@ -12,3 +12,5 @@ P
  seguridad-iglesia-dev.properties,0\1\01970c3544d801ef50e9cda8919e78642c24bdcd
 Q
 !seguridad-iglesia-prod.properties,3\e\3e360f6534976df846f10002f78f837249a766d9
+P
+ ms-perez-huatuco-prod.properties,4\5\45e4ea0238800aad62f3beeb5a5f22a47c6ee024

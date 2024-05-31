@@ -1,0 +1,42 @@
+[33mcommit e85c323cf358b963af3a17352762333c6ca692f2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Jhoner Perez <crisbrah@gmail.com>
+Date:   Thu May 30 20:13:35 2024 -0500
+
+    probando subiendo todo
+
+[33mcommit 3b16edb6460f7b497604e8ca7d80003d391c435b[m
+Author: Jhoner Perez <crisbrah@gmail.com>
+Date:   Thu May 30 20:11:39 2024 -0500
+
+    probando subiendo todo
+
+[33mcommit f2e9f5816c6cc6f6b1406a3a90425acb0ec0a1ca[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Jhoner Perez <crisbrah@gmail.com>
+Date:   Wed May 29 00:52:57 2024 -0500
+
+    tercer commit
+
+[33mcommit cf1ed61a66a6c209c769aaa74c745090a0d5fb16[m
+Merge: f1ef626 c2e0ae1
+Author: Jhoner Perez <crisbrah@gmail.com>
+Date:   Wed May 29 00:46:24 2024 -0500
+
+    Resolviendo error
+
+[33mcommit f1ef6265d3d8adc7ed459b6cef0b57e0632411de[m
+Author: Jhoner Perez <crisbrah@gmail.com>
+Date:   Wed May 29 00:40:33 2024 -0500
+
+    Actualizando props
+
+[33mcommit c2e0ae1b3da982f64a0a766fb861e9f34a7533f9[m
+Author: crisbrah <32748912+crisbrah@users.noreply.github.com>
+Date:   Wed May 29 00:25:48 2024 -0500
+
+    Delete .gitignore
+
+[33mcommit 36be72f9b83094bf96ec97a0d72e07153a16aaba[m
+Author: Jhoner Perez <crisbrah@gmail.com>
+Date:   Wed May 29 00:19:55 2024 -0500
+
+    firs commit
